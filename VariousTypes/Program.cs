@@ -21,7 +21,14 @@ namespace VariousTypes
             Console.WriteLine(var_1);
             Console.WriteLine(var_2);
             Console.WriteLine(var_3);
-            
+
+            float real_1 = 1;
+            float real_2 = 2;
+            float real_3 = 3;
+
+            Console.WriteLine(real_1);
+            Console.WriteLine(real_2);
+            Console.WriteLine(real_3);
             
         }
     }
