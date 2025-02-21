@@ -22,6 +22,14 @@ namespace ManyStrings
             Console.WriteLine(var_4);
             Console.WriteLine(conca);
             Console.WriteLine(inter);
+
+            double xx = 1.23456;
+            int ii = 19;
+
+            string dprim=$"{xx:f2}";
+            string dseg=$"{xx:p1}";
+            string iprim=$"{ii:X}";
+            string iseg=$"{ii:C}";
             
 
 
