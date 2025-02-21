@@ -29,6 +29,13 @@ namespace VariousTypes
             Console.WriteLine(real_1);
             Console.WriteLine(real_2);
             Console.WriteLine(real_3);
+
+            bool verdadeira = true;
+            bool falso = false;
+
+            Console.WriteLine(verdadeira);
+            Console.WriteLine(falso);
+            
             
         }
     }
